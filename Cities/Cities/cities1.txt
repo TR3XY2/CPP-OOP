@@ -1,0 +1,5 @@
+Ukraine Lviv 1000000
+Denmark Kopenhagen 600000
+Ireland Dublin 550000
+Ukraine Kyiv 2500000
+Italy Rome 2800000

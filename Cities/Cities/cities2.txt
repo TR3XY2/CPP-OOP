@@ -1,0 +1,5 @@
+Japan Kyoto 1400000
+Italy Milan 1300000
+Canada Winnipeg 750000
+Poland Gdansk 600000
+Ukraine Truskavets 30000

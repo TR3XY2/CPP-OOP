@@ -1,0 +1,5 @@
+Canada Toronto 2700000
+Poland Warsaw 1700000
+Poland Krakiv 770000
+Ukraine Ternopil 220000
+Japan Osaka 2650000

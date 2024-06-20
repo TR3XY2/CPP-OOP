@@ -1,0 +1,6 @@
+5
+C Tesla 9 Warsaw 600
+F TurkishAirlines 500 Paris 4
+C Ford 8 Berlin 800
+C BMW 8.5 Kyiv 400
+F QatarAirlines 600 Rome 5
